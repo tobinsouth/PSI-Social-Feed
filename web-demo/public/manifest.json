@@ -1,0 +1,8 @@
+{
+  "short_name": "PSI Demo",
+  "name": "PSI Demo App with Geohashing",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
