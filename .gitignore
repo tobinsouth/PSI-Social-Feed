@@ -31,6 +31,7 @@ chrome-user-data
 *.csv
 /figure-reproduction/Connectedness/results
 /figure-reproduction/Connectedness/random
+/figure-reproduction/Connectedness/data
 *.pptx
 
 packages/react-devtools-core/dist
