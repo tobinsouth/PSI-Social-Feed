@@ -26,6 +26,13 @@ chrome-user-data
 *.swp
 *.swo
 
+*.tsv
+*.csv.gz
+*.csv
+/figure-reproduction/Connectedness/results
+/figure-reproduction/Connectedness/random
+*.pptx
+
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
 packages/react-devtools-extensions/chrome/*.crx
